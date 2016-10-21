@@ -65,19 +65,20 @@
 
       <nav class="ls-menu">
         <ul>
-           <li><a href="#" class="ls-ico-dashboard" title="Dashboard">Dashboard</a></li>
+           <li><a href="index.jsp" class="ls-ico-dashboard" title="Dashboard">Dashboard</a></li>
+           <li><a href="movimentos.jsp" class="ls-ico-trophy" title="Movimentos">Movimentos</a></li>
            <li><a href="#" class="ls-ico-stats" title="Relatórios da revenda">Relatório mensal</a></li>
            <li>
             <a href="#" class="ls-ico-cog" title="Configurações">Cadastros</a>
             <ul>
-              <li><a href="#">Cliente</a></li>
-              <li><a href="#">Fornecedor</a></li>
-              <li><a href="#">Categoria</a></li>
+              <li><a href="cliente.jsp">Cliente</a></li>
+              <li><a href="fornecedor.jsp">Fornecedor</a></li>
+              <li><a href="categoria.jsp">Categoria</a></li>
               <li><a href="#">Despesa</a></li>
             </ul>
           </li>
         </ul>
-      </nav>
+      </nav> 
 
 
   </div>
